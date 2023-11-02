@@ -9,8 +9,10 @@ Thanks for @wjy7717 @vrolife
 git clone https://github.com/sa-y0nara/Redmibook-7840HS-Linux  
 cd Redmibook-7840HS-Linux  
 sudo chmod +x -R *    
-./install.sh  
+sudo ./install.sh  
 或  
-./install_with_ROCm.sh   
+sudo ./install_with_ROCm.sh  
 
-若安装ROCm，请在wifi驱动安装完成后连接wifi，断开有线连接，以免出现不必要的流量计费。。
+sudo reboot 
+
+

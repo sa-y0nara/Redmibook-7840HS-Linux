@@ -6,3 +6,5 @@
 
 cd /driver/fingerprint/
 ./install.sh
+
+exit

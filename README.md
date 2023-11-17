@@ -13,6 +13,6 @@ sudo ./install.sh
 或  
 sudo ./install_with_ROCm.sh  
 
-sudo reboot 
+sudo reboot   
 
-
+可能有点问题 但不想改了 同志们加油 研究一下好了  
